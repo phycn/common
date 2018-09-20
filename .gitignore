@@ -1,0 +1,11 @@
+.idea/
+*.iml
+out
+gen
+target/
+csii/
+.settings/
+.class
+parent/classes/production/
+test/
+.DS_Store
